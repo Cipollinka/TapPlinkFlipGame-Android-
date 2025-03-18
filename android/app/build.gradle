@@ -79,7 +79,7 @@ android {
 
     namespace "com.tapplinkflipmoments"
     defaultConfig {
-        applicationId "com.plinko.tapflipmoments"
+        applicationId "plinko.ball.game.plink"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
