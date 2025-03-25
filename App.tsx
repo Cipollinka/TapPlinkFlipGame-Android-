@@ -1,8 +1,8 @@
 import React from 'react';
-import TapPlinkStack from './StackNavigator';
+import AppManager from './src/AppManager/AppManager';
 
 function App() {
-  return <TapPlinkStack />;
+  return <AppManager />;
 }
 
 export default App;
